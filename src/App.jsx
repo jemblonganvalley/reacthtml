@@ -1,11 +1,10 @@
-import React from 'react';
-import './App.css';
-import Navbar from "./components/Navbar.jsx"
+import React from "react";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <div>KODINGAN JSX KAMU DISINI..</div>
     </div>
   );
 }
